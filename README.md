@@ -1,5 +1,6 @@
 # MCPMicrosoftLogin
 Not by me but I use it and it works. 
+Add both the "openauth" folder and SessionChanger.java file to your MCP project.
 
 Use: SessionChanger.getInstance().setUserMicrosoft("email@example.com", "password");
 
